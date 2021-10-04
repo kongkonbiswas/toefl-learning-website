@@ -8,6 +8,7 @@ const Header = () => {
   }
     return (
       <div className="header bg-dark text-white p-5">
+          <h3>Welcome To English Learning Website</h3>
         <NavLink activeStyle={activeStyle} to="/home">
           Home
         </NavLink>
