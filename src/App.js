@@ -4,11 +4,12 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
-import { BrowserRouter, Switch, Route, Link } from 'react-router-dom'
-import Service from './components/Service/Service';
+import { BrowserRouter, Switch, Route} from 'react-router-dom'
 import About from './components/About/About';
 import NotFound from './components/NotFound/NotFound';
 import Category from './components/Category/Category';
+import Footer from './components/Footer/Footer';
+import Services from './components/Services/Services';
 
 
 
@@ -27,8 +28,8 @@ function App() {
           <Route path="/about">
             <About></About>
           </Route>
-          <Route path="/service">
-            <Service></Service>
+          <Route path="/services">
+            <Services></Services>
           </Route>
           <Route path="/category">
             <Category></Category>
@@ -38,6 +39,7 @@ function App() {
           </Route>
         </Switch>
       </BrowserRouter>
+      <Footer></Footer>
     </div>
   );
 }
