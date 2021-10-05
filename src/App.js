@@ -7,7 +7,7 @@ import Home from './components/Home/Home';
 import { BrowserRouter, Switch, Route} from 'react-router-dom'
 import About from './components/About/About';
 import NotFound from './components/NotFound/NotFound';
-import Category from './components/Category/Category';
+import Careers from './components/Careers/Careers';
 import Footer from './components/Footer/Footer';
 import Services from './components/Services/Services';
 
@@ -31,8 +31,8 @@ function App() {
           <Route path="/services">
             <Services></Services>
           </Route>
-          <Route path="/category">
-            <Category></Category>
+          <Route path="/careers">
+            <Careers></Careers>
           </Route>
           <Route path="*">
             <NotFound></NotFound>

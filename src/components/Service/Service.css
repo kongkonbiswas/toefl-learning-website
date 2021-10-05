@@ -1,0 +1,15 @@
+
+.cart {
+    width: 550px;
+    height: 500px;
+    overflow-y: hidden;
+  border: 1px solid gray;
+  background-color: lightsalmon;
+
+  /* background-color: #000; */
+}
+.text-area {
+  text-align: center;
+  /* background-color: rgb(131, 124, 124); */
+ 
+}
