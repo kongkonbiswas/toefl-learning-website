@@ -4,7 +4,7 @@
 Test of English as a Foreign Language (TOEFL /ˈtoʊfəl/ TOH-fəl) is a standardised test to measure the English language ability of non-native speakers wishing to enrol in English-speaking universities. The test is accepted by more than 11,000 universities and other institutions in over 150 countries. TOEFL is one of the two major English-language tests in the world, the other being the IELTS.
 
 
-Have a look the live preview [Click here to Check Live Site](https://english-learning-website-kongkon.netlify.app/).
+Have a look the live preview [Live Site](https://english-learning-website-kongkon.netlify.app/).
 
 [Linkedin](https://www.linkedin.com/in/kongkon-biswas-a2374314a/).
 
